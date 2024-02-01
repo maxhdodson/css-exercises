@@ -1,0 +1,22 @@
+p {
+    background-color: #f6adad;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.font-size {
+    font-size: 24px;
+}
+
+
+#two {
+    color: blue;
+    font-size: 36px;
+    font-family: Lucida, Sans-serif;
+}
+
+#four {
+    color : black;
+    background-color: #8bf58b;
+    font-weight: bold;
+    font-family: serif;
+}
